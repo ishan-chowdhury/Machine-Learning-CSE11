@@ -8,21 +8,20 @@ The projects demonstrate implementations and comparisons of common supervised le
 
 ## 📁 Repository Structure
 Machine-Learning-CSE11/
+│
 ├── Assignment1.ipynb
 ├── ClassificationComparison.ipynb
 ├── ClassificationMetrics.ipynb
 ├── KNN.ipynb
 ├── LinearRegression.ipynb
 ├── MultipleLinearRegression.ipynb
-├── NaiveBayes/
-│ └── NaiveBayes.ipynb
 ├── RidgeRegression.ipynb
 ├── SGDGradientDescent.ipynb
+│
+├── NaiveBayes/
+│   └── NaiveBayes.ipynb
+│
 └── README.md
-
-*(All code files are Jupyter Notebooks written in Python.)* :contentReference[oaicite:2]{index=2}
-
----
 
 ## 🧠 Topics Covered
 
