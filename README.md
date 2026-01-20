@@ -7,6 +7,7 @@ The projects demonstrate implementations and comparisons of common supervised le
 ---
 
 ## 📁 Repository Structure
+```
 Machine-Learning-CSE11/
 │
 ├── Assignment1.ipynb
@@ -22,7 +23,7 @@ Machine-Learning-CSE11/
 │   └── NaiveBayes.ipynb
 │
 └── README.md
-
+```
 ## 🧠 Topics Covered
 
 This repository includes applied practical work on the following topics:
